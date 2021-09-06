@@ -1,0 +1,56 @@
+{
+  "1": {
+    "id": "1001",
+    "name": "Pencils",
+    "qn": 10,
+    "amt": 100
+  },
+  "2": {
+    "id": "1005",
+    "name": "Highlighter Pen",
+    "qn": 15,
+    "amt": 300
+  },
+  "3": {
+    "id": "1003",
+    "name": "Eraser",
+    "qn": 22,
+    "amt": 110
+  },
+  "4": {
+    "id": "1020",
+    "name": "Ink Cartridges",
+    "qn": 8,
+    "amt": 80
+  },
+  "5": {
+    "id": "1025",
+    "name": "Sticky tapes",
+    "qn": 3,
+    "amt": 30
+  },
+  "6": {
+    "id": "1011",
+    "name": "Spiral bound Notebook",
+    "qn": 30,
+    "amt": 3600
+  },
+  "7": {
+    "id": "1001",
+    "name": "Pencils",
+    "qn": 20,
+    "amt": 200
+  },
+  "8": {
+    "id": "1005",
+    "name": "Highlighter Pen",
+    "qn": 35,
+    "amt": 700
+  },
+  "9": {
+    "id": "1040",
+    "name": "Stapler",
+    "qn": 5,
+    "amt": 600
+  }
+}

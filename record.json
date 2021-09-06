@@ -1,0 +1,240 @@
+{
+  "1001": {
+    "name": "Pencils",
+    "pr": 10,
+    "qn": 170,
+    "s_brand": "Camlin",
+    "s_type": "Consumable Writing stationery"
+  },
+  "1002": {
+    "name": "Color Pencils",
+    "pr": 40,
+    "qn": 100,
+    "s_brand": "Camlin",
+    "s_type": "Consumable Writing stationery"
+  },
+  "1003": {
+    "name": "Eraser",
+    "pr": 5,
+    "qn": 78,
+    "s_brand": "Camlin",
+    "s_type": "Consumable Writing stationery"
+  },
+  "1004": {
+    "name": "Sharpener",
+    "pr": 5,
+    "qn": 100,
+    "s_brand": "Camlin",
+    "s_type": "Writing stationery"
+  },
+  "1005": {
+    "name": "Highlighter Pen",
+    "pr": 20,
+    "qn": 50,
+    "s_brand": "Flair",
+    "s_type": "Writing stationery"
+  },
+  "1006": {
+    "name": "Ballpoint pen",
+    "pr": 10,
+    "qn": 80,
+    "s_brand": "Reynolds",
+    "s_type": "Writing stationery"
+  },
+  "1007": {
+    "name": "Rollerball pen",
+    "pr": 10,
+    "qn": 20,
+    "s_brand": "Flair",
+    "s_type": "Writing stationery"
+  },
+  "1008": {
+    "name": "Fountain pen",
+    "pr": 50,
+    "qn": 25,
+    "s_brand": "Flair",
+    "s_type": "Writing stationery"
+  },
+  "1009": {
+    "name": "Notebook",
+    "pr": 65,
+    "qn": 300,
+    "s_brand": "Classmate",
+    "s_type": "Paper stationery"
+  },
+  "1010": {
+    "name": "Wire bound Notebook",
+    "pr": 100,
+    "qn": 80,
+    "s_brand": "Classmate",
+    "s_type": "Paper stationery"
+  },
+  "1011": {
+    "name": "Spiral bound Notebook",
+    "pr": 120,
+    "qn": 20,
+    "s_brand": "Classmate",
+    "s_type": "Paper stationery"
+  },
+  "1012": {
+    "name": "Writing pad",
+    "pr": 50,
+    "qn": 20,
+    "s_brand": "Classmate",
+    "s_type": "Paper stationery"
+  },
+  "1013": {
+    "name": "Personal organizer",
+    "pr": 50,
+    "qn": 10,
+    "s_brand": "Classmate",
+    "s_type": "Paper stationery"
+  },
+  "1014": {
+    "name": "Card holder",
+    "pr": 70,
+    "qn": 20,
+    "s_brand": "Classmate",
+    "s_type": "Filing and Storage stationery"
+  },
+  "1015": {
+    "name": "File",
+    "pr": 12,
+    "qn": 98,
+    "s_brand": "Classmate",
+    "s_type": "Filing and Storage stationery"
+  },
+  "1016": {
+    "name": "Folder",
+    "pr": 18,
+    "qn": 52,
+    "s_brand": "Classmate",
+    "s_type": "Filing and Storage stationery"
+  },
+  "1017": {
+    "name": "Envelope",
+    "pr": 5,
+    "qn": 200,
+    "s_brand": "Classmate",
+    "s_type": "Filing and Storage stationery"
+  },
+  "1018": {
+    "name": "Printing papers",
+    "pr": 1,
+    "qn": 1000,
+    "s_brand": "Classmate",
+    "s_type": "Consumable stationery"
+  },
+  "1019": {
+    "name": "Photocopy papers",
+    "pr": 2,
+    "qn": 1000,
+    "s_brand": "Classmate",
+    "s_type": "Consumable stationery"
+  },
+  "1020": {
+    "name": "Ink Cartridges",
+    "pr": 10,
+    "qn": 72,
+    "s_brand": "Reynolds",
+    "s_type": "Consumable stationery"
+  },
+  "1021": {
+    "name": "Toners",
+    "pr": 30,
+    "qn": 50,
+    "s_brand": "Flair",
+    "s_type": "Consumable stationery"
+  },
+  "1022": {
+    "name": "Paper clips",
+    "pr": 2,
+    "qn": 150,
+    "s_brand": "Classmate",
+    "s_type": "Filing stationery"
+  },
+  "1023": {
+    "name": "Stapler",
+    "pr": 20,
+    "qn": 20,
+    "s_brand": "Classmate",
+    "s_type": "Filing stationery"
+  },
+  "1024": {
+    "name": "Punching machine",
+    "pr": 25,
+    "qn": 10,
+    "s_brand": "Classmate",
+    "s_type": "Filing stationery"
+  },
+  "1025": {
+    "name": "Sticky tapes",
+    "pr": 10,
+    "qn": 12,
+    "s_brand": "Classmate",
+    "s_type": "Paper stationery"
+  },
+  "1026": {
+    "name": "Scissor",
+    "pr": 60,
+    "qn": 100,
+    "s_brand": "Camlin",
+    "s_type": "Desktop stationery"
+  },
+  "1027": {
+    "name": "Glue",
+    "pr": 10,
+    "qn": 90,
+    "s_brand": "Camlin",
+    "s_type": "Desktop stationery"
+  },
+  "1028": {
+    "name": "Calculator",
+    "pr": 1000,
+    "qn": 20,
+    "s_brand": "Casio",
+    "s_type": "Desktop stationery"
+  },
+  "1029": {
+    "name": "Tape dispenser",
+    "pr": 19,
+    "qn": 25,
+    "s_brand": "Camlin",
+    "s_type": "Desktop stationery"
+  },
+  "1030": {
+    "name": "Adhesive tape",
+    "pr": 15,
+    "qn": 76,
+    "s_brand": "Camlin",
+    "s_type": "Desktop stationery"
+  },
+  "1031": {
+    "name": "Register",
+    "pr": 100,
+    "qn": 92,
+    "s_brand": "Classmate",
+    "s_type": "Filing stationery"
+  },
+  "1032": {
+    "name": "Pencil case",
+    "pr": 250,
+    "qn": 10,
+    "s_brand": "Wildcraft",
+    "s_type": "Organizers"
+  },
+  "1035": {
+    "name": "compass",
+    "pr": 35,
+    "qn": 120,
+    "s_brand": "Camlin",
+    "s_type": "Desktop stationery"
+  },
+  "1040": {
+    "name": "Stapler",
+    "pr": 120,
+    "qn": 5,
+    "s_brand": "Camlin",
+    "s_type": "desktop stationary"
+  }
+}
